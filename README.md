@@ -57,5 +57,5 @@ and slowly escape the cloud, one service at a time. (No GitLab though — GitHub
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=001Sarper&theme=tokyonight&hide_border=true&date_format=j.%20M%5B%20Y%5D"/>
+<img src="https://streak-stats.demolab.com?user=dipsy-03&theme=tokyonight&hide_border=true&date_format=j.%20M%5B%20Y%5D"/>
 
